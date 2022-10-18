@@ -5,7 +5,7 @@ import Sidebar from "../components/Sidebar"
 
 const Home: NextPage = () => {
   return (
-    <div className="  min-h-screen bg-secondary ">
+    <div className="   min-h-screen bg-secondary ">
       <h1>
         this main page
       </h1>

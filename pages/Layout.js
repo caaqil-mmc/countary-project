@@ -5,7 +5,7 @@ function Layout({children}) {
   return (
     <div className='flex w-full gap-4'>
         <Sidebar/>
-        <main className='bg-indigo-400'>
+        <main className='flex-1 bg-indigo-400 p-5'>
             {
                 children
             }
